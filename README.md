@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-- 🔭 I’m **4th year Computer Engineering Student** at [**PICT**](https://pict.edu/)
+- 🔭 I’m **4th year Computer Engineering Student** at [**PICT**](https://pict.edu/)<a target="blank">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms** & **Data Science.**
 
