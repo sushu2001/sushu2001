@@ -7,7 +7,7 @@
 
 - 🔭 I’m **4th year Computer Engineering Student** at [**PICT**](https://pict.edu/)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms** & **Data Science.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - ⚡ Fun fact **I love to play Cricket, Badminton, Table Tennis & Watching Movies.**
 
