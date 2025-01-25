@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **sushantawathare212@gmail.com**
 
-- Connect with me : <a href="https://www.linkedin.com/in/sushant-awathare" target="blank"><i class="fa-brands fa-linkedin" alt="sushantawathare" height="30" width="40"></i></a> 
+- ![image](https://github.com/user-attachments/assets/fce53346-a45b-41c5-beb3-e692ff75081f)
+Connect with me : <a href="https://www.linkedin.com/in/sushant-awathare" alt="sushantawathare" target="blank"></a> 
 
 <h3 align="left">My coding profiles:</h3>
 <p align="left">
