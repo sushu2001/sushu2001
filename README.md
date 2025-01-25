@@ -1,15 +1,15 @@
 <h1 >Hi 👋, I'm Sushant Sudhakar Awathare</h1>
-<h3 >A Programmer and a Web Developer</h3>
+<h3 >A Software Development Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushu2001&label=Profile%20views&color=0e75b6&style=flat" alt="sushu2001" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-- 🔭 I’m **4th year Computer Engineering Student** at [**PICT**](https://pict.edu/)
+- 🌱 I am a professional *Software Development Engineer (SDE)* at **Emerson** with approximately 2 years of experience
+  
+- 🔭 I graduated in 2023 with a *Bachelor of Engineering (BE)* in **Computer Engineering** From [**Pune Institute Of Computer Technology (PICT)**](https://pict.edu/)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- ⚡ Fun fact **I love to play Cricket, Badminton, Table Tennis & Watching Movies.**
+- ⚡ Fun fact I love to play **Cricket & Badminton.**
 
 - 📫 How to reach me **sushantawathare212@gmail.com**
 
