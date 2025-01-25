@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **sushantawathare212@gmail.com**
 
-- ![image](https://github.com/user-attachments/assets/fce53346-a45b-41c5-beb3-e692ff75081f)
-Connect with me : <a href="https://www.linkedin.com/in/sushant-awathare" alt="sushantawathare" target="blank"></a> 
+- Connect with me : <a href="https://www.hackerrank.com/sushantawathare1?hr_r=1" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fce53346-a45b-41c5-beb3-e692ff75081f" alt="Sushant_Awathare" height="30" width="40" /></a>
 
 <h3 align="left">My coding profiles:</h3>
 <p align="left">
