@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **sushantawathare212@gmail.com**
 
+- Connect with me : <a href="https://www.linkedin.com/in/sushant-awathare" target="blank"><i class="fa-brands fa-linkedin" alt="sushantawathare" height="30" width="40"></i></a> 
+
 <h3 align="left">My coding profiles:</h3>
 <p align="left">
 <a href="https://leetcode.com/underRater/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sushantawathare" height="30" width="40" /></a>
